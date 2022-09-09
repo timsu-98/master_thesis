@@ -1,0 +1,36 @@
+This is TeX, Version 3.14159265 (TeX Live 2019/Debian) (preloaded format=tex 2022.9.9)  9 SEP 2022 16:18
+**main.tex
+(./main.tex
+! Undefined control sequence.
+l.1 \RequirePackage
+                   [l2tabu,orthodox]{nag}
+? 
+! Undefined control sequence.
+l.4 \documentclass
+                  [headsepline,footsepline,footinclude=false,fontsize=11pt,p...
+
+? 
+
+Overfull \hbox (123.30203pt too wide) in paragraph at lines 4--6
+[]\tenrm [headsepline,footsepline,footinclude=false,fontsize=11pt,paper=a4,list
+of=totoc,bibliography=totoc,BCOR=12mm,DIV=12]scrbook |
+
+\hbox(7.5+2.5)x469.75499
+.\hbox(0.0+0.0)x20.0
+.\tenrm [
+.\tenrm h
+.\tenrm e
+.\tenrm a
+.etc.
+
+! I can't find file `{settings}'.
+l.8 \input{settings}
+                    
+(Press Enter to retry, or Control-D to exit)
+Please type another input file name: 
+! Emergency stop.
+l.8 \input{settings}
+                    
+End of file on the terminal!
+
+No pages of output.
